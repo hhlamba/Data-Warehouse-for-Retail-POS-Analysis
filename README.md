@@ -14,3 +14,11 @@ Data Warehouse Repository
   - Transform the Data in Staging and further Load the Data to the Data Warehouse.
   - A Package that combines all other packages and aids in providing the holistic view of ETL process and its progress.
 
+## Business Intelligence Dashboard 
+
+### 1. 
+### 2. 
+### 3. 
+### 4. 
+### 5. 
+### 6. 
