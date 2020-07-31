@@ -16,7 +16,10 @@ Data Warehouse Repository
 
 ## Business Intelligence Dashboard 
 
-### 1. 
+### 1. Contribution of Each organization to the merger
+<p>
+  <img href = "https://github.com/hhlamba/DataWarehouse/blob/master/Dashboard%20Screenshots/1%20Merger%20and%20Contributions.png">
+</p>
 ### 2. 
 ### 3. 
 ### 4. 
