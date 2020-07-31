@@ -2,7 +2,7 @@
 Data Warehouse Repository
 
 ## USING SQL Scripts
-- All the scripts used in the projects where I have created a Data Warehouse. 
+- All the scripts used in the projects led to creation of a Data Warehouse. 
 - SQL Scripts to perform ETL (Extract, Transform and Load) for the Dimension and Fact Tables.
 - Database diagrams showcasing the star schema of different business processes.
 - Business Matrix and High/Detailed Dimensional data modelling files.
