@@ -1,13 +1,13 @@
 # DataWarehouse
 Data Warehouse Repository
 
-## USING SQL Scripts
+## USING SQL Scripts:
 - All the scripts used in the projects led to creation of a Data Warehouse. 
 - SQL Scripts to perform ETL (Extract, Transform and Load) for the Dimension and Fact Tables.
 - Database diagrams showcasing the star schema of different business processes.
 - Business Matrix and High/Detailed Dimensional data modelling files.
 
-## USING SSIS packages - Visual Studio
+## USING SSIS packages - Visual Studio:
 - SQL Script to create the star schema
 - SSIS Packages 
   - Extract data from OLTP sources and load it to the staging area.
