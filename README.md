@@ -16,7 +16,7 @@ Data Warehouse Repository
 
 ## Business Intelligence Dashboard 
 
-### 1. Contribution of Each organization to the merger [Link](https://hhlamba.shinyapps.io/association_rule_mining/)
+### 1. Contribution of Each organization to the merger
 <p align="center">
   <img src="https://github.com/hhlamba/DataWarehouse/blob/master/Dashboard%20Screenshots/1%20Merger%20and%20Contributions.png" width="1000" title="R Shiny App" border="1">
 </p>
